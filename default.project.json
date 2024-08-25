@@ -1,0 +1,12 @@
+{
+  "name": "BetterBaseplate",
+  "tree": {
+    "$path": "src",
+    "Packages": {
+      "$path": "Packages"
+    },
+    "Components": {
+      "$path": "Components"
+    }
+  }
+}
